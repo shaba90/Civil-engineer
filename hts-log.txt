@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 02 Sep 2023 12:31:55 at https://devsdesign.net/products/html/konstruk/index3.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://devsdesign.net/products/html/konstruk/index3.html -O1 "C:\My Web Sites\dd5" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:31:56	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/apple-touch-icon.png (from https://devsdesign.net/products/html/konstruk/index3.html)
+12:32:06	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/services.html (from https://devsdesign.net/products/html/konstruk/index3.html)
+12:32:27	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/preconstruction (from https://devsdesign.net/products/html/konstruk/index3.html)
+12:32:30	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/assets/css/owl.video.play.png (from https://devsdesign.net/products/html/konstruk/assets/css/owl.carousel.css)
+12:32:30	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/assets/inc/custom-slider/css/nivo-slider.css (from https://devsdesign.net/products/html/konstruk/onepage8.html)
+12:32:30	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/assets/inc/custom-slider/css/preview.css (from https://devsdesign.net/products/html/konstruk/onepage8.html)
+12:32:30	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/assets/inc/custom-slider/js/jquery.nivo.slider.js (from https://devsdesign.net/products/html/konstruk/onepage8.html)
+12:32:30	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/contact1.html (from https://devsdesign.net/products/html/konstruk/general-construction.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 seconds : 572 links scanned, 563 files written (147040819 bytes overall), 32 files updated [2259947 bytes received at 64569 bytes/sec], 1511 bytes transferred using HTTP compression in 1 files, ratio 43%, 8.2 requests per connection
+(8 errors, 0 warnings, 0 messages)
