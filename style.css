@@ -5993,12 +5993,15 @@ body .search-modal .close:hover {
   transform: scale(1.1);
 }
 .rs-choose.choose-style3 .video-item {
-  background-image: url(images/video/video-image2.jpg);
+  background-image: url(images/p-1.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
   padding: 295px 0px 295px 0px;
+}
+#nmm {
+  background-image: url(images/p-2.jpg);
 }
 .rs-choose.choose-style3 .contact-bd {
   background-image: url(images/bg/contact-bd.jpg);
